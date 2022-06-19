@@ -1,0 +1,33 @@
+﻿@model CarHomeViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h2>CRUD Operation</h2>
+
+    <table>
+       
+        <tr>
+            <th>Name</th>
+            <th>Color</th>
+            <th>Amount</th>
+        </tr>
+        @{
+            foreach (var car in @Model.Cars)
+            {
+                <tr>
+                    <td>@car.Name</td>
+                    <td>@car.Color</td>
+                    <td>@car.Amount</td>
+                </tr>
+            }
+        }
+
+    </table>
+
+    <p>Name: @Model.Organization.Name</p>
+    <p>Location:  @Model.Organization.Location</p>
+    <p>DateFound: @Model.Organization.DateFound</p>
+</div>

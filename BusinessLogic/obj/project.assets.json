@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DbAndRepo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DbAndRepo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbAndRepo.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DbAndRepo/1.0.0": {
+      "type": "project",
+      "path": "../DbAndRepo/DbAndRepo.csproj",
+      "msbuildProject": "../DbAndRepo/DbAndRepo.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DbAndRepo >= 1.0.0",
+      "Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Decagon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\IT resource\\mvc podz tut\\CrashCourse\\BusinessLogic\\BusinessLogic.csproj",
+      "projectName": "BusinessLogic",
+      "projectPath": "C:\\Users\\Decagon\\Desktop\\IT resource\\mvc podz tut\\CrashCourse\\BusinessLogic\\BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Decagon\\Desktop\\IT resource\\mvc podz tut\\CrashCourse\\BusinessLogic\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Decagon\\Desktop\\IT resource\\mvc podz tut\\CrashCourse\\DbAndRepo\\DbAndRepo.csproj": {
+              "projectPath": "C:\\Users\\Decagon\\Desktop\\IT resource\\mvc podz tut\\CrashCourse\\DbAndRepo\\DbAndRepo.csproj"
+            },
+            "C:\\Users\\Decagon\\Desktop\\IT resource\\mvc podz tut\\CrashCourse\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Decagon\\Desktop\\IT resource\\mvc podz tut\\CrashCourse\\Entities\\Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

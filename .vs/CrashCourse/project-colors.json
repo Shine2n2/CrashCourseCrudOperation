@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b55a8291-97c0-4217-b887-2ff3e8f0d9ba": {
+      "ProjectGuid": "b55a8291-97c0-4217-b887-2ff3e8f0d9ba",
+      "DisplayName": "CrashCourse",
+      "ColorIndex": 0
+    },
+    "ff877525-c565-4694-a67b-86e056737b9b": {
+      "ProjectGuid": "ff877525-c565-4694-a67b-86e056737b9b",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    },
+    "5477b698-1f7e-4a1e-93ed-88d004e1a6d3": {
+      "ProjectGuid": "5477b698-1f7e-4a1e-93ed-88d004e1a6d3",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 2
+    },
+    "4e2137eb-2cd2-466b-9cf7-bebfd2f4f6b8": {
+      "ProjectGuid": "4e2137eb-2cd2-466b-9cf7-bebfd2f4f6b8",
+      "DisplayName": "DbAndRepo",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

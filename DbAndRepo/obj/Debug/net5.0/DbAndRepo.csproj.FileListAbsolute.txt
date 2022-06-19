@@ -1,0 +1,30 @@
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\bin\Debug\net5.0\DbAndRepo.deps.json
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\bin\Debug\net5.0\DbAndRepo.dll
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\bin\Debug\net5.0\ref\DbAndRepo.dll
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\bin\Debug\net5.0\DbAndRepo.pdb
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\bin\Debug\net5.0\Entities.dll
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\bin\Debug\net5.0\Entities.pdb
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.AssemblyInfo.cs
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.csproj.CopyComplete
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.dll
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\obj\Debug\net5.0\ref\DbAndRepo.dll
+C:\Users\hp\Desktop\WhiteBoarding\Week7A\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.pdb
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\bin\Debug\net5.0\DbAndRepo.deps.json
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\bin\Debug\net5.0\DbAndRepo.dll
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\bin\Debug\net5.0\DbAndRepo.pdb
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\bin\Debug\net5.0\Entities.dll
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\bin\Debug\net5.0\Entities.pdb
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.csproj.CopyComplete
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.dll
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\refint\DbAndRepo.dll
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\DbAndRepo.pdb
+C:\Users\Decagon\Desktop\IT resource\mvc podz tut\CrashCourse\DbAndRepo\obj\Debug\net5.0\ref\DbAndRepo.dll
